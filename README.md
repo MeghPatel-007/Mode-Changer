@@ -23,4 +23,4 @@ The toggle button switches the background and text colors between light and dark
 ## 💻 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MeghPatel-007/mode-changer.git
+   git clone https://github.com/MeghPatel-007/Mode-Changer.git
